@@ -1,0 +1,160 @@
+.head  {
+  margin-left: 125px;
+  font-size: 50px;
+  position: absolute;
+  top: 625px;
+  left: 25%;
+}
+
+
+.box {
+    position: absolute;
+    top: 2px;
+    left: 25%;
+    margin: auto;
+    width: 600px;
+    height: 598px;
+}
+.b1  {
+  zindex: 99;
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+.b2  {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+.b3  {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+.b10  {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+.b20  {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+.b30  {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+.b100  {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+.b200 {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}.b300  {
+  float: left;
+  margin: 0;
+  border: black 5px solid;
+  width: 190px;
+  height: 190px;
+
+}
+
+.rex {
+    margin: auto;
+    border: 5px blue solid;
+  background-size: 75% auto;
+  background-position: center;
+  background-image:
+ url("http://thumbs.dreamstime.com/x/cartoon-tyrannosaurus-rex-15156091.jpg");
+    background-repeat: no-repeat;
+}
+
+.doh {
+   margin: auto;
+   border: 5px green solid;
+  background-size: 75% auto;
+  background-position: center;
+   background-image: url("http://i1.kym-cdn.com/photos/images/original/000/925/410/4cc.jpg");
+    background-repeat: no-repeat;
+ }
+
+.winner {
+  position: absolute;
+  top: 2px;
+  left: 25%;
+  display: none;
+  z-index: 99;
+  background-size: 100%;
+  background-position: center;
+  background-image: url("https://media4.giphy.com/media/nXxOjZrbnbRxS/200.gif");
+  background-repeat: no-repeat;
+  height:600px;
+  width: 600px;
+}
+.rex_winner  {
+  position: absolute;
+  top: 2px;
+  left: 0%;
+  display: none;
+  z-index: 99;
+  background-size: 100%;
+  background-position: center;
+  background-image: url("http://thumbs.dreamstime.com/x/cartoon-tyrannosaurus-rex-15156091.jpg");
+  background-repeat: no-repeat;
+  height:300px;
+  width: 300px;
+}
+.hommer_winner {
+  position: absolute;
+  top: 2px;
+  left: 0%;
+  display: none;
+  z-index: 99;
+  background-size: 100%;
+  background-position: center;
+  background-image: url("http://i1.kym-cdn.com/photos/images/original/000/925/410/4cc.jpg");
+  background-repeat: no-repeat;
+  height:300px;
+  width: 300px;
+}
+
+a {
+  margin-left: 220px;
+  font-size: 25px;
+  position: absolute;
+  top: 680px;
+  left: 25%;
+  z-index: 999;
+  height: 600px;
+  width: 500px
+
+}
